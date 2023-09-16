@@ -3,10 +3,10 @@
         "id": "1",
         "name": "Introduction to C Programming",
         "description": "This course will teach you the basics of C programming.",
-        "price": 190,
+        "price": 180,
         "duration": "4 months",
-        "credit": 3,
-        "image": "https://www.tutorialspoint.com/cprogramming/images/c-programming-mini-logo.jpg"
+        "credit": 4,
+        "image": "https://www.tutorialspoint.com/cprogramming/images/c-mini-logo.jpg"
     },
 
     {
@@ -23,9 +23,9 @@
         "id": "3",
         "name": "Introduction to Java Programming",
         "description": "This course will teach you the basics of Java programming.",
-        "price": 190,
+        "price": 150,
         "duration": "4 months",
-        "credit": 3,
+        "credit": 1,
         "image": "https://www.tutorialspoint.com/java/images/java-mini-logo.jpg"
     },
 
@@ -33,9 +33,9 @@
         "id": "4",
         "name": "Introduction to Python Programming",
         "description": "This course will teach you the basics of Python programming.",
-        "price": 190,
+        "price": 200,
         "duration": "4 months",
-        "credit": 3,
+        "credit": 4,
         "image": "https://www.tutorialspoint.com/python/images/python-mini.jpg"
     },
 
@@ -43,9 +43,9 @@
         "id": "5",
         "name": "Introduction to JavaScript Programming",
         "description": "This course will teach you the basics of JavaScript programming.",
-        "price": 190,
+        "price": 160,
         "duration": "4 months",
-        "credit": 3,
+        "credit": 4,
         "image": "https://www.tutorialspoint.com/javascript/images/javascript-mini-logo.jpg"
     },
 
@@ -55,7 +55,7 @@
         "description": "This course will teach you the basics of PHP programming.",
         "price": 190,
         "duration": "4 months",
-        "credit": 3,
+        "credit": 2,
         "image": "https://www.tutorialspoint.com/php/images/php-mini-logo.jpg"
     },
 
@@ -73,7 +73,7 @@
         "id": "8",
         "name": "Introduction to Perl Programming",
         "description": "This course will teach you the basics of Perl programming.",
-        "price": 190,
+        "price": 150,
         "duration": "4 months",
         "credit": 3,
         "image": "https://www.tutorialspoint.com/perl/images/perl-mini-logo.jpg"
@@ -83,9 +83,9 @@
         "id": "9",
         "name": "Introduction to R Programming",
         "description": "This course will teach you the basics of R programming.",
-        "price": 190,
+        "price": 170,
         "duration": "4 months",
-        "credit": 3,
+        "credit": 2,
         "image": "https://www.tutorialspoint.com/r/images/r-mini-logo.jpg"
     }
 ]
