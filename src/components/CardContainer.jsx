@@ -14,7 +14,7 @@ const CardContainer = ({ allCourses, handleAddToCart }) => {
                     );
                 })
             ) : (
-                <p>Loading...</p>
+                <div className="loader-container"></div>
             )}
         </section>
     );
